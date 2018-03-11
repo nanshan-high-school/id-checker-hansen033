@@ -152,4 +152,5 @@ int main()
 	} else {
 		cout << "X驗證失敗!";
 	} 
+	return 0;
 } 
