@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-	char o[10];
+	char o[11];
 	int total ,f[2];
 	cout << "身份證字號檢查\n請輸入身份證字號:";
 	cin >> o;
